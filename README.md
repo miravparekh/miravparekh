@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I am a data-driven, fact-driven, optimistic, and cautious professional with a background in Data Analytics who is passionate about Data and emerging technologies, with experience in Python, ML models, Data pipeline, R, SQL, Microsoft BI, and Tableau. I'm obsessed with using technology to boost efficiency and productivity. I aim to add value to the applicable industry by implementing new and innovative ideas and methods. Data analysis, optimization, process automation, equipment design, research, and assessment are all parts of this process.I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
