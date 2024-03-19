@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-I am a data-driven, fact-driven, optimistic, and cautious professional with a background in Data Analytics who is passionate about Data and emerging technologies, with experience in Python, ML models, Data pipeline, R, SQL, Microsoft BI, and Tableau. I'm obsessed with using technology to boost efficiency and productivity. I aim to add value to the applicable industry by implementing new and innovative ideas and methods. 
+I am a dynamic and results-oriented professional with a solid background in Data Analytics, driven by a passion for leveraging data and emerging technologies to drive business outcomes. I possess expertise in Python, ML models, data pipeline management, R, SQL, Microsoft BI, and Tableau. My career has been characterized by a commitment to harnessing technology to enhance efficiency and productivity, ultimately delivering value to the industry through innovative solutions.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
