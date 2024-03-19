@@ -1,4 +1,4 @@
-# <h1 align="center">Hey Everyone 👋, I'm Mirav  Parekh</h1>
+# <h1 align="center">Hi there 👋, I'm Mirav  Parekh</h1>
 
 **`Data Analyst`**
 
