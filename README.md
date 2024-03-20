@@ -8,9 +8,9 @@ I am a dynamic and results-oriented professional with a solid background in Data
 
 ### 🧰 Languages and Tools
 
-<img align="left" src="[https://www.svgrepo.com/show/376344/python.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png)" alt="Python" width="40" height="40" />
+<img align="left" src="https://www.svgrepo.com/show/376344/python.svg" alt="Python" width="50" height="50" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  
 <img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git" width="40" height="40"/> 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img align="left" src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" alt="mysql" width="40" height="40"/>
+<img align="left" src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" alt="mysql" width="50" height="50"/>
