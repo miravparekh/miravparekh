@@ -9,6 +9,12 @@ I am a dynamic and results-oriented professional with a solid background in Data
 ### 🧰 Languages and Tools
 
 <img align="left" src="https://www.svgrepo.com/show/376344/python.svg" alt="Python" width="50" height="50" />
+<img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)" alt="azure" width="40" height="40"/>
+https://www.sas.com/en_us/home/refs/cloud/_jcr_content/par/styledcontainer_copy_1392393366/par/image_copy_copy_copy.img.png/1583438477007.png
+<img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  
 <img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git" width="40" height="40"/> 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
