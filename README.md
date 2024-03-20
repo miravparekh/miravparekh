@@ -1,6 +1,6 @@
 # <h1 align="center">Hi there 👋, I'm Mirav  Parekh</h1>
 
-**`Data Analyst`**
+**`Data Analyst` `Business Intelligence Engineer` `Data Engineer` `Data Scientist`**
 
 I am a dynamic and results-oriented professional with a solid background in Data Analytics, driven by a passion for leveraging data and emerging technologies to drive business outcomes. I possess expertise in Python, ML models, data pipeline management, R, SQL, Microsoft BI, and Tableau. My career has been characterized by a commitment to harnessing technology to enhance efficiency and productivity, ultimately delivering value to the industry through innovative solutions.
 
