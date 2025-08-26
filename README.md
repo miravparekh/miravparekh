@@ -80,7 +80,7 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-<img align="left" src="https://img.shields.io/badge/Tableau-0081C9?style=flat&logo=tableau&logoColor=white" alt="Tableau" width="50" height="50"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" alt="Tableau" width="50" height="50"/>
 <img align="left" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=white" alt="PowerBI" width="50" height="50"/>
 <img align="left" src="https://img.shields.io/badge/dbt-FF7E5F?style=flat&logo=dbt&logoColor=white" alt="dbt" width="50" height="50"/>
 <img align="left" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" width="50" height="50"/>
@@ -96,9 +96,15 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/miravp" target="_blank"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="50"/></a>
+  <a href="https://www.linkedin.com/in/miravp" target="_blank">
+    <img src="https://img.icons8.com/fluency/2x/linkedin.png" width="35" height="35"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:miravparekhedu@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="50"/></a>
+  <a href="mailto:miravparekhedu@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="35" height="35"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/miravparekh" target="_blank"><img src="https://img.icons8.com/fluency/2x/github.png" width="50"/></a>
+  <a href="https://github.com/miravparekh" target="_blank">
+    <img src="https://img.icons8.com/fluency/2x/github.png" width="35" height="35"/>
+  </a>
 </p>
