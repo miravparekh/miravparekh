@@ -77,19 +77,19 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 
 ---
 
-### 🧰 Languages and Tools
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" alt="Tableau" width="50" height="50"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerbi.svg" alt="PowerBI" width="50" height="50"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dbt.svg" alt="dbt" width="50" height="50"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+<img align="left" src="https://img.shields.io/badge/Tableau-0081C9?style=flat&logo=tableau&logoColor=white" alt="Tableau" width="50" height="50"/>
+<img align="left" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=white" alt="PowerBI" width="50" height="50"/>
+<img align="left" src="https://img.shields.io/badge/dbt-FF7E5F?style=flat&logo=dbt&logoColor=white" alt="dbt" width="50" height="50"/>
+<img align="left" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+
 
 <br clear="both"/>
 
