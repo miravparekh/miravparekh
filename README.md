@@ -27,9 +27,6 @@ Currently working as a Data Analyst at Zenith Technology.
 <h3 align="center">
   I am Mirav Parek – Data & AI Engineer in the Making
 </h3>
-<div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
-</div> 
 
 ### 🌐 About Me
 I’m building a long-term career at the intersection of **Data, Cloud, and AI**. With a foundation in **Python, SQL, and Data Analytics**, I’m actively expanding into **Data Engineering, Cloud Platforms (AWS/Azure), and Applied AI**.
