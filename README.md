@@ -1,18 +1,13 @@
-# <h1 align="center">Hi there 👋, I'm Mirav  Parekh</h1>
+# <h1 align="center">Hi there 👋, I'm Mirav Parekh</h1>
 
 <h3 align="center">
-  I am Mirav Parek – Data & AI Engineer in the Making
+  Data & AI Engineer in the Making
 </h3>
-
-Currently working as a Data Analyst at Zenith Technology.
 
 ---
 
 ### 🌐 About Me
-I’m building a long-term career at the intersection of **Data, Cloud, and AI**. With a foundation in **Python, SQL, and Data Analytics**, I’m actively expanding into **Data Engineering, Cloud Platforms (AWS/Azure), and Applied AI**.
-
-My roadmap is clear:  
-**Data Analyst → Data Engineer → DevOps → Data Scientist → ML/AI Engineer → MLOps**  
+I’m building a long-term career at the intersection of **Data, Cloud, and AI**. With a foundation in **Python, SQL, and Data Analytics**, I’m actively expanding into **Data Engineering, Cloud Platforms (AWS/Azure), and Applied AI**. 
 
 I thrive on **systems thinking, problem-solving, and building end-to-end data solutions** that transform raw data into actionable insights.
 
@@ -69,7 +64,7 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 ---
 
 ### 🌟 Professional Highlights
-- **Data Analyst** – Zenith Technology *(2022 – 2023)*  
+- **Data Analyst** – Zenith Technology   
 - **Healthcare Data Projects** – BIDMC *(ETL pipelines, clinical data analysis, NLP on medical records)*  
 - **Independent Projects** – AI, Machine Learning, and Cloud pipelines  
 
@@ -82,29 +77,29 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 
 ---
 
+### 🧰 Languages and Tools
+
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="PowerBI" width="50" height="50"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" alt="dbt" width="50" height="50"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" alt="Tableau" width="50" height="50"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerbi.svg" alt="PowerBI" width="50" height="50"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dbt.svg" alt="dbt" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 
+<br clear="both"/>
 
 ---
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/miravparek" target="_blank"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="50"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="50"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/miravparek" target="_blank"><img src="https://img.icons8.com/fluency/2x/github.png" width="50"/></a>
+  <a href="https://www.linkedin.com/in/miravp" target="_blank"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:miravparekhedu@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="50"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/miravparekh" target="_blank"><img src="https://img.icons8.com/fluency/2x/github.png" width="50"/></a>
 </p>
-
----
-
