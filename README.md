@@ -1,5 +1,5 @@
 # <h1 align="center">Hi there 👋, I'm Mirav Parekh</h1>
-
+<br>
 <h3 align="center">
   Data & AI Engineer in the Making
 </h3>
