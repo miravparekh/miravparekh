@@ -41,65 +41,53 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 
 ---
 
-<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Skills & Tools</h3>
+### 🛠 Skills & Tools
 
-<div align="center" style="width:100%"> 
-  <table>
-    <tr>
-      <td valign="center" width="100px"><b>Data Analysis & Engineering</b></td>
-      <td valign="center" width="100px"><b>Cloud & Collaboration</b></td>
-      <td valign="center" width="100px"><b>Machine Learning & AI</b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Python-blue" /> 
-        <img src="https://img.shields.io/badge/Pandas-blue" /> 
-        <img src="https://img.shields.io/badge/NumPy-blue" /> 
-        <img src="https://img.shields.io/badge/SciPy-blue" /> 
-        <img src="https://img.shields.io/badge/Seaborn-blue" /> 
-        <img src="https://img.shields.io/badge/R-blue" /> 
-        <img src="https://img.shields.io/badge/SQL-blue" /> 
-        <img src="https://img.shields.io/badge/MySQL-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
-        <img src="https://img.shields.io/badge/Snowflake-blue" /> 
-        <img src="https://img.shields.io/badge/Excel-blue" /> 
-        <img src="https://img.shields.io/badge/ETL-blue" /> 
-        <img src="https://img.shields.io/badge/Alteryx-blue" /> 
-        <img src="https://img.shields.io/badge/dbt-blue" /> 
-        <img src="https://img.shields.io/badge/Airflow-blue" /> 
-        <img src="https://img.shields.io/badge/PowerBI-blue" /> 
-        <img src="https://img.shields.io/badge/Tableau-blue" /> 
-        <img src="https://img.shields.io/badge/Data_Storytelling-blue" />
-        <img src="https://img.shields.io/badge/HIPAA-blue" />
-      </td>      
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Azure-blue" /> 
-        <img src="https://img.shields.io/badge/Data_Factory-blue" /> 
-        <img src="https://img.shields.io/badge/Synapse-blue" /> 
-        <img src="https://img.shields.io/badge/AWS-blue" /> 
-        <img src="https://img.shields.io/badge/S3-blue" /> 
-        <img src="https://img.shields.io/badge/RDS-blue" /> 
-        <img src="https://img.shields.io/badge/Git-blue" /> 
-        <img src="https://img.shields.io/badge/GitHub-blue" /> 
-        <img src="https://img.shields.io/badge/Jira-blue" /> 
-        <img src="https://img.shields.io/badge/Agile-blue" /> 
-        <img src="https://img.shields.io/badge/Scrum-blue" /> 
-        <img src="https://img.shields.io/badge/PowerAutomate-blue" /> 
-        <img src="https://img.shields.io/badge/PowerApps-blue" />
-      </td>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Scikit-learn-blue" /> 
-        <img src="https://img.shields.io/badge/Statsmodels-blue" /> 
-        <img src="https://img.shields.io/badge/Time-Series-blue" /> 
-        <img src="https://img.shields.io/badge/ARIMA-blue" /> 
-        <img src="https://img.shields.io/badge/LSTM-blue" /> 
-        <img src="https://img.shields.io/badge/Prophet-blue" /> 
-        <img src="https://img.shields.io/badge/Generative_AI-blue" /> 
-        <img src="https://img.shields.io/badge/Optimization-blue" />
-      </td>
-    </tr>
-  </table>
-</div>
+**Data Analysis & Engineering**  
+<img src="https://img.shields.io/badge/Python-blue"/> 
+<img src="https://img.shields.io/badge/Pandas-blue"/> 
+<img src="https://img.shields.io/badge/NumPy-blue"/> 
+<img src="https://img.shields.io/badge/SciPy-blue"/> 
+<img src="https://img.shields.io/badge/Seaborn-blue"/> 
+<img src="https://img.shields.io/badge/R-blue"/> 
+<img src="https://img.shields.io/badge/SQL-blue"/> 
+<img src="https://img.shields.io/badge/MySQL-blue"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-blue"/> 
+<img src="https://img.shields.io/badge/Snowflake-blue"/> 
+<img src="https://img.shields.io/badge/Excel-blue"/> 
+<img src="https://img.shields.io/badge/ETL-blue"/> 
+<img src="https://img.shields.io/badge/Alteryx-blue"/> 
+<img src="https://img.shields.io/badge/dbt-blue"/> 
+<img src="https://img.shields.io/badge/Airflow-blue"/> 
+<img src="https://img.shields.io/badge/PowerBI-blue"/> 
+<img src="https://img.shields.io/badge/Tableau-blue"/> 
+<img src="https://img.shields.io/badge/Data_Storytelling-blue"/> 
+<img src="https://img.shields.io/badge/HIPAA-blue"/>
+
+**Cloud & Collaboration**  
+<img src="https://img.shields.io/badge/Azure-blue"/> 
+<img src="https://img.shields.io/badge/Data_Factory-blue"/> 
+<img src="https://img.shields.io/badge/Synapse-blue"/> 
+<img src="https://img.shields.io/badge/AWS-blue"/> 
+<img src="https://img.shields.io/badge/S3-blue"/> 
+<img src="https://img.shields.io/badge/RDS-blue"/> 
+<img src="https://img.shields.io/badge/Git-blue"/> 
+<img src="https://img.shields.io/badge/GitHub-blue"/> 
+<img src="https://img.shields.io/badge/Jira-blue"/> 
+<img src="https://img.shields.io/badge/Agile-blue"/> 
+<img src="https://img.shields.io/badge/Scrum-blue"/> 
+<img src="https://img.shields.io/badge/PowerAutomate-blue"/> 
+<img src="https://img.shields.io/badge/PowerApps-blue"/>
+
+**Machine Learning & AI**  
+<img src="https://img.shields.io/badge/Scikit-learn-blue"/> 
+<img src="https://img.shields.io/badge/Statsmodels-blue"/> 
+<img src="https://img.shields.io/badge/Time-Series-blue"/> 
+<img src="https://img.shields.io/badge/ARIMA-blue"/> 
+<img src="https://img.shields.io/badge/LSTM-blue"/> 
+<img src="https://img.shields.io/badge/Prophet-blue"/> 
+<img src="https://img.shields.io/badge/Generative_AI-blue"/> 
+<img src="https://img.shields.io/badge/Optimization-blue"/>
 
 ---
 
@@ -135,7 +123,3 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=miravparek&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27"/>
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
