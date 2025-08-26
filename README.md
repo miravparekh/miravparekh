@@ -6,12 +6,13 @@
 
 ---
 
-### 🌐 About Me
-I’m building a long-term career at the intersection of **Data, Cloud, and AI**. With a foundation in **Python, SQL, and Data Analytics**, I’m actively expanding into **Data Engineering, Cloud Platforms (AWS/Azure), and Applied AI**. 
-
-I thrive on **systems thinking, problem-solving, and building end-to-end data solutions** that transform raw data into actionable insights.
+### 🚀 Current Learning & Projects
+- Building **ETL pipelines** with Azure Data Factory & Synapse  
+- Developing **AI-powered forecasting models** (Prophet, ARIMA, LSTM)  
+- Exploring **Generative AI & LLM applications** with LangChain and Vector Databases  
 
 ---
+
 
 ### 🛠 Skills & Tools
 
@@ -70,12 +71,7 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 
 ---
 
-### 🚀 Current Learning & Projects
-- Building **ETL pipelines** with Azure Data Factory & Synapse  
-- Developing **AI-powered forecasting models** (Prophet, ARIMA, LSTM)  
-- Exploring **Generative AI & LLM applications** with LangChain and Vector Databases  
 
----
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/>
@@ -97,14 +93,15 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 ### 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/miravp" target="_blank">
-    <img src="https://img.icons8.com/fluency/2x/linkedin.png" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:miravparekhedu@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/miravparekh" target="_blank">
-    <img src="https://img.icons8.com/fluency/2x/github.png" width="35" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35"/>
   </a>
 </p>
+
