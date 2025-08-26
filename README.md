@@ -4,7 +4,6 @@
   Data & AI Engineer in the Making
 </h3>
 
-
 ### 🚀 Current Learning & Projects
 - Building **ETL pipelines** with Azure Data Factory & Synapse  
 - Developing **AI-powered forecasting models** (Prophet, ARIMA, LSTM)  
