@@ -58,6 +58,7 @@
 <img src="https://img.shields.io/badge/Generative_AI-blue"/> 
 <img src="https://img.shields.io/badge/Optimization-blue"/>
 
+---
 
 ### 🌟 Professional Highlights
 - **Data Analyst** – Zenith Technology   
