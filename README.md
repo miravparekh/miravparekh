@@ -94,6 +94,7 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 
+
 ---
 
 ### 🤝 Connect With Me
@@ -107,6 +108,3 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 
 ---
 
-<div align="center">
- 
-</div>
