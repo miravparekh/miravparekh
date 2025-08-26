@@ -1,5 +1,8 @@
-# <h1 align="center">Hi there 👋, I'm Mirav Parekh</h1>
-<br>
+<div style="text-align:center; border:none; margin:0; padding:0;">
+  <h1>Hi there 👋, I'm Mirav Parekh</h1>
+</div>
+
+
 <h3 align="center">
   Data & AI Engineer in the Making
 </h3>
