@@ -4,10 +4,11 @@
   <h1 align="center">Hi there 👋, I'm Mirav Parekh</h1>
 </div>
 
-
+<div>
 <h3 align="center">
   Data & AI Engineer in the Making
 </h3>
+</div>
 
 ### 🚀 Current Learning & Projects
 - Building **ETL pipelines** with Azure Data Factory & Synapse  
