@@ -9,8 +9,6 @@
 - Developing **AI-powered forecasting models** (Prophet, ARIMA, LSTM)  
 - Exploring **Generative AI & LLM applications** with LangChain and Vector Databases  
 
----
-
 
 ### 🛠 Skills & Tools
 
@@ -60,7 +58,6 @@
 <img src="https://img.shields.io/badge/Generative_AI-blue"/> 
 <img src="https://img.shields.io/badge/Optimization-blue"/>
 
----
 
 ### 🌟 Professional Highlights
 - **Data Analyst** – Zenith Technology   
