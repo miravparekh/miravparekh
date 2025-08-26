@@ -1,4 +1,12 @@
-<div style="text-align:center; border:none">
+<style>
+  .center-text {
+    text-align: center;
+    padding: 10px;
+    border: none;
+  }
+</style>
+
+<div class="center-text">
   <h1>Hi there 👋, I'm Mirav Parekh</h1>
 </div>
 
