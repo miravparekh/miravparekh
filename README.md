@@ -1,4 +1,4 @@
-<div style="text-align:center; border:none; margin:0; padding:0;">
+<div style="text-align:center; border:none">
   <h1>Hi there 👋, I'm Mirav Parekh</h1>
 </div>
 
