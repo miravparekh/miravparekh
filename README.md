@@ -105,10 +105,6 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 
 ---
 
-<div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
-</div> 
-
 ### 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/miravparek" target="_blank"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="50"/></a>
@@ -121,5 +117,5 @@ I thrive on **systems thinking, problem-solving, and building end-to-end data so
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=miravparek&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27"/>
+ 
 </div>
