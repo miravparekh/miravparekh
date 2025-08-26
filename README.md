@@ -9,6 +9,7 @@
 - Developing **AI-powered forecasting models** (Prophet, ARIMA, LSTM)  
 - Exploring **Generative AI & LLM applications** with LangChain and Vector Databases  
 
+---
 
 ### 🛠 Skills & Tools
 
