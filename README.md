@@ -98,11 +98,17 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:miravparekhedu@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/50/000000/gmail.png" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/miravparekh" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35"/>
   </a>
 </p>
+
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
 
