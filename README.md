@@ -93,14 +93,9 @@
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/miravp" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn" style="margin-right:25px;">
-  </a><a href="mailto:miravparekhedu@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="35" height="35" alt="Gmail" style="margin-right:25px;">
-  </a><a href="https://github.com/miravparekh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub">
-  </a>
+<a href="https://www.linkedin.com/in/miravp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn" style="margin-right:35px;"></a><a href="mailto:miravparekhedu@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="35" height="35" alt="Gmail" style="margin-right:35px;"></a><a href="https://github.com/miravparekh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub"></a>
 </p>
+
 
 
 
