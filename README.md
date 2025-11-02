@@ -67,7 +67,7 @@
 
 ### 🌟 Professional Highlights
 - **Data Analyst** – Zenith Technology   
-- **Healthcare Data Projects** – BIDMC *(ETL pipelines, clinical data analysis, NLP on medical records)*  
+- **Healthcare Data Analyst** – BIDMC *(Clinical data analysis, NLP on medical records)*  
 - **Independent Projects** – AI, Machine Learning, and Cloud pipelines  
 
 ---
