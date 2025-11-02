@@ -92,16 +92,12 @@
 ---
 
 ### 🤝 Connect With Me
-<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+<p align="center" style="display:flex;justify-content:center;gap:20px;align-items:center;">
   <a href="https://www.linkedin.com/in/miravp" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn" style="vertical-align:middle;"/>
-  </a>
-  
-  <a href="mailto:miravparekhedu@gmail.com" target="_blank" style="text-decoration:none;">
+  </a><a href="mailto:miravparekhedu@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="35" height="35" alt="Gmail" style="vertical-align:middle;"/>
-  </a>
-  
-  <a href="https://github.com/miravparekh" target="_blank" style="text-decoration:none;">
+  </a><a href="https://github.com/miravparekh" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35" alt="GitHub" style="vertical-align:middle;"/>
   </a>
 </p>
