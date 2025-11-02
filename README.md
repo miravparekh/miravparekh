@@ -96,7 +96,7 @@
   <a href="https://www.linkedin.com/in/miravp" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:miravparekhedu@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" width="35" height="35"/>
   </a>
